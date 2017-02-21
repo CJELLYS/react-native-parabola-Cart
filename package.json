@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-smart-parabola@^1.0.2",
+        "scope": null,
+        "escapedName": "react-native-smart-parabola",
+        "name": "react-native-smart-parabola",
+        "rawSpec": "^1.0.2",
+        "spec": ">=1.0.2 <2.0.0",
+        "type": "range"
+      },
+      "/Users/caoguodong/Desktop/Both/rcshop-onreact"
+    ]
+  ],
+  "_cnpm_publish_time": 1473414394708,
+  "_from": "react-native-smart-parabola@>=1.0.2 <2.0.0",
+  "_id": "react-native-smart-parabola@1.0.2",
+  "_inCache": true,
+  "_location": "/react-native-smart-parabola",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-smart-parabola-1.0.2.tgz_1473414393249_0.7184165748767555"
+  },
+  "_npmUser": {
+    "name": "cyqresig",
+    "email": "moonsunfall@aliyun.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-smart-parabola@^1.0.2",
+    "scope": null,
+    "escapedName": "react-native-smart-parabola",
+    "name": "react-native-smart-parabola",
+    "rawSpec": "^1.0.2",
+    "spec": ">=1.0.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz",
+  "_shasum": "832f7748db3fb4958e81694161d72c3d599180d3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-smart-parabola@^1.0.2",
+  "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
+  "author": {
+    "name": "HISAME SHIZUMARU"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-parabola/issues"
+  },
+  "dependencies": {},
+  "description": "A smart parabola for react-native apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "832f7748db3fb4958e81694161d72c3d599180d3",
+    "size": 4545,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz"
+  },
+  "gitHead": "899bbe73af57d9f6ed5eb736465134ce2685f433",
+  "homepage": "https://github.com/react-native-component/react-native-smart-parabola#readme",
+  "keywords": [
+    "react-native",
+    "smart",
+    "cart",
+    "parabola",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "parabola.js",
+  "maintainers": [
+    {
+      "name": "cyqresig",
+      "email": "moonsunfall@aliyun.com"
+    }
+  ],
+  "name": "react-native-smart-parabola",
+  "optionalDependencies": {},
+  "publish_time": 1473414394708,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-parabola.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
