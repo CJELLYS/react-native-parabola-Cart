@@ -41,7 +41,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz",
+  "_resolved": "https://registry.npmmirror.com/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz",
   "_shasum": "832f7748db3fb4958e81694161d72c3d599180d3",
   "_shrinkwrap": null,
   "_spec": "react-native-smart-parabola@^1.0.2",
@@ -60,7 +60,7 @@
     "shasum": "832f7748db3fb4958e81694161d72c3d599180d3",
     "size": 4545,
     "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz"
+    "tarball": "https://registry.npmmirror.com/react-native-smart-parabola/download/react-native-smart-parabola-1.0.2.tgz"
   },
   "gitHead": "899bbe73af57d9f6ed5eb736465134ce2685f433",
   "homepage": "https://github.com/react-native-component/react-native-smart-parabola#readme",
